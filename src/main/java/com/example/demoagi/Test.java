@@ -6,4 +6,9 @@ public class Test {
         System.out.println("00000000000");
         System.out.println("11111111111");
     }
+
+
+    public void method1(){
+        System.out.println(01);
+    }
 }
